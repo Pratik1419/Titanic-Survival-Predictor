@@ -8,7 +8,7 @@
 
 > A machine learning web app that predicts whether a Titanic passenger would have survived — built with Python, Scikit-learn, and deployed on Streamlit Cloud.
 
-🔗 **Live App:** [Click here to try it](https://your-app-link.streamlit.app)
+🔗 **Live App:** [Click here to try it](https://titanic-survival-predictor-ddr7yjza2lw7qgx6sgvxxd.streamlit.app/)
 
 ---
 
@@ -177,7 +177,7 @@ titanic-survival-predictor/
 **Pratik Mishra**
 - 📧 pratikmisha141@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/pratik-mishra)
-- 🐙 [GitHub](https://github.com/your-username)
+- 🐙 [GitHub](https://github.com/Pratik1419)
 
 ---
 
