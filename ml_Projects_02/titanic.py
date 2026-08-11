@@ -78,4 +78,4 @@ if st.button("🔮 Predict Survival", use_container_width=True):
                   f"{probability[0] * 100:.1f}%")
 
 st.markdown("---")
-st.markdown("🔗 Connect with me on [LinkedIn](https://linkedin.com/in/pratik-mishra)")
+st.markdown("🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/pratik-mishra-profile/)")
